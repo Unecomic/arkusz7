@@ -1,0 +1,43 @@
+*{
+    font-family:Helvetica;
+}
+body{
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+#lewy1{
+    width:30% ;
+    height: 400px;
+}
+#lewy2{
+
+    width:30% ;
+    height: 100px;
+    background-color: darksalmon;
+}
+
+#prawy{
+    background-color: darksalmon;
+    width: 70%;
+    height: 500px; ;
+
+}
+img{
+    width:100% ;
+}
+#wynik:hover{
+    font-size: 200%;
+    padding:10px;
+    color: ghostwhite;
+}
+
+table,td{
+    border-style: dotted;
+    border-color: maroon;
+}
+
+table{
+    width: 70%;
+margin: auto;
+}
