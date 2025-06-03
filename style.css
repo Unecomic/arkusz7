@@ -41,3 +41,6 @@ table{
     width: 70%;
 margin: auto;
 }
+main{
+    display: flex;
+}
